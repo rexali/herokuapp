@@ -1,0 +1,17 @@
+{
+  "name": "herokuapp",
+  "version": "1.0.0",
+  "description": "deploy express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "dependencies": {
+ "express": "^5.0.0"
+ },
+ "engines": {
+ "node": "4.2.x"
+ } 
+  "author": "Aliyu Bello",
+  "license": "ISC"
+}
